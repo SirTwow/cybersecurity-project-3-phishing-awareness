@@ -4,14 +4,14 @@ Purpose
 
 This decision tree provides a simple process for determining how to respond to an incoming suspicious email or message.
 
-Step 1 — Check the Sender
+Step 1: Check the Sender
 
 Does the sender's email address match the organization or person they claim to represent?
 
 - Yes → Continue to Step 2.
 - No → Treat as suspicious and continue checking.
 
-Step 2 — Check the URL
+Step 2: Check the URL
 
 Does the link lead to the expected legitimate domain?
 
@@ -26,14 +26,14 @@ Check carefully for:
 - Unrelated root domains
 - Shortened or hidden links
 
-Step 3 — Check the Request
+Step 3: Check the Request
 
 Does the message request sensitive information, payment, credentials, MFA approval, or an unusual action?
 
 - No → Continue to Step 4.
 - Yes → Treat as suspicious and verify independently.
 
-Step 4 — Check Psychological Pressure
+Step 4: Check Psychological Pressure
 
 Look for:
 
@@ -48,7 +48,7 @@ Are these being used to pressure the recipient?
 - No → Continue to Step 5.
 - Yes → Treat as suspicious.
 
-Step 5 — Determine the Outcome
+Step 5: Determine the Outcome
 
 SAFE
 
