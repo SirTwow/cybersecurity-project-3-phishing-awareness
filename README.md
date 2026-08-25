@@ -1,6 +1,6 @@
 Project 3: Phishing Awareness Analysis & Triage Toolkit
 
-DecodeLabs Industrial Training Kit — Batch 2026
+DecodeLabs Industrial Training Kit (Batch 2026)
 
 Objective
 
