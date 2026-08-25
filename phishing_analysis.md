@@ -6,7 +6,7 @@ Phishing is a social engineering technique used to deceive people into revealing
 
 This analysis demonstrates how suspicious messages can be examined using sender information, URLs, psychological triggers, and other red flags.
 
-Example 1 — Fake Account Security Alert
+Example 1: Fake Account Security Alert
 
 Subject: Urgent: Your Account Will Be Suspended
 
@@ -38,7 +38,7 @@ Do not click the link or enter credentials. Report the message to the security t
 
 ---
 
-Example 2 — Fake Payment Request
+Example 2: Fake Payment Request
 
 Subject: Payment Required — Subscription Failed
 
@@ -68,7 +68,7 @@ The user should access the service through its official application or website i
 
 ---
 
-Example 3 — Suspicious QR Code Message
+Example 3: Suspicious QR Code Message
 
 Subject: Security Verification Required
 
